@@ -10,4 +10,4 @@ There have been very few attempts to benchmark performances of state-of-the-art 
 
 ### Word-Count Error Comparison
 
-<img src="./wordcount_error.png" height="200" width="350">
+<img src="./wordcount_error.png" height="175" width="350">
