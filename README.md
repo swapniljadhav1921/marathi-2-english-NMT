@@ -11,3 +11,9 @@ There have been very few attempts to benchmark performances of state-of-the-art 
 ### Word-Count Error Comparison
 
 <img src="./wordcount_error.png" height="175" width="350">
+
+### Files
+
+* Reference File, Tatoeba + Wikimedia parallel corpus => set3_mr_en.tsv (TAB separated)
+* Common translation text for all model (Not Null/Empty Translation) => valid_mr.text (TAB separated)
+* Model Outputs => \*.mr.en files for each model
