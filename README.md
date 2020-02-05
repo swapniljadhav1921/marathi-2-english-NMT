@@ -19,3 +19,4 @@ There have been very few attempts to benchmark performances of state-of-the-art 
 * Model Outputs => \*.mr.en files for each model
 * Sample Tokenized Datasets => test.mr and test.en
 * Translation Output images in a folder
+* Tatoeba + Wikimedia Dataset used for score calculations & comparisons => set3_mr_en.tsv
